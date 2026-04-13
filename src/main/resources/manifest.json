@@ -17,6 +17,6 @@
         
     },
     "DisabledByDefault": false,
-    "Main": "org.example.plugin.ExamplePlugin",
+    "Main": "com.example.templateplugin.TemplatePlugin",
     "IncludesAssetPack": true
 }
